@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50012" started-at="2019-02-19T08:32:36Z" finished-at="2019-02-19T08:33:26Z">
+    <groups>
+    </groups>
+    <test name="Build" duration-ms="50012" started-at="2019-02-19T08:32:36Z" finished-at="2019-02-19T08:33:26Z">
+      <class name="com.actitime.tests.LoginLogoutTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.actitime.tests.LoginLogoutTest@21213b92]" name="launch" is-config="true" duration-ms="29943" started-at="2019-02-19T08:32:36Z" finished-at="2019-02-19T08:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="LoginLogout()[pri:0, instance:com.actitime.tests.LoginLogoutTest@21213b92]" name="LoginLogout" duration-ms="17229" started-at="2019-02-19T08:33:06Z" finished-at="2019-02-19T08:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginLogout -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.actitime.tests.LoginLogoutTest@21213b92]" name="close" is-config="true" duration-ms="2709" started-at="2019-02-19T08:33:23Z" finished-at="2019-02-19T08:33:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.actitime.tests.LoginLogoutTest -->
+    </test> <!-- Build -->
+  </suite> <!-- Suite -->
+</testng-results>

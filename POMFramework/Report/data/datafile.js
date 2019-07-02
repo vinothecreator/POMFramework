@@ -1,0 +1,1 @@
+var data = [{"_count":"1","_class":"com.actitime.tests.LoginLogoutTest","_mothod":"LoginLogout","_time":"23136","_status":"SUCCESS","_exception":"--"}];

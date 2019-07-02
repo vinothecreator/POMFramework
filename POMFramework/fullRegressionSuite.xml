@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1"  parallel = "classes">
+
+<!-- 
+<listeners>
+   	<listener class-name="report_genarator.Listener"/>
+ </listeners> -->
+
+<test name="Build">
+   <classes>
+      <class name="com.actitime.tests.LoginLogoutTest" />
+<!--       <class name="com.actitime.tests.CreateTypeOfWorkTest"/>
+       <class name="com.actitime.tests.DeleteTypeOfWorkTest"/> -->
+    </classes>
+        
+    
+  
+    
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
